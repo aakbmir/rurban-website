@@ -29,14 +29,14 @@ function Hero() {
     <div className="section-container">
       <div className="hero-section">
         <div className="text-section">
-          <p className="text-headline">Rurban</p>
-          <h2 className="text-title">Er Access Simplified</h2>
+          <span className="text-headline">Rurban {"   "} </span>
+          <span className="text-title"> ER Access Simplified</span>
           <p className="text-descritpion">
-            Our focus is to reduce and potentially eliminate the substantial
-            contrast in health-care services that exists between rural and
-            urban-based healthcare. We adopt and strive to create a
-            multi-faceted approach to this issue, and hope for an impact that
-            establishes equality in healthcare for all.
+            At Rurban, we understand the importance of equitable and accessible
+            healthcare to all. That's why we have created a simple easy-to-use
+            platform that allows patients to readily receive efficient
+            healthcare and various medical services from the comfort of their
+            own home
           </p>
           <a
             rel="noreferrer"

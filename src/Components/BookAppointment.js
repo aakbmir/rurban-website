@@ -1,4 +1,3 @@
-import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faCircleCheck,
@@ -22,10 +21,9 @@ function BookAppointment() {
           <span>Why Choose Rurban</span>
         </h3>
         <p className="ba-description">
-          Discover the reasons to choose Rurban for your healthcare needs.
-          Experience expert care, convenience, and personalized solutions,
-          making your well-being our top priority. Join us on a journey to
-          better health and a happier life.
+          With Rurban, the future of healthcare is accessible, bright, and more
+          efficient than ever before. Join us in our mission to transform
+          healthcare and enhance the well-being of patients in our Community.
         </p>
 
         <p className="ba-checks ba-check-first">

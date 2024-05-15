@@ -1,10 +1,5 @@
 import React from "react";
 import InformationCard from "./InformationCard";
-import {
-  faHeartPulse,
-  faTruckMedical,
-  faTooth,
-} from "@fortawesome/free-solid-svg-icons";
 import "../Styles/Info.css";
 
 function Info() {
@@ -25,32 +20,25 @@ function Info() {
 
       <div className="info-cards-content">
         <InformationCard
-          title="Emergency Care"
-          description="Our Emergency Care service is designed to be your reliable support
-            in critical situations. Whether it's a sudden illness, injury, or
-            any medical concern that requires immediate attention, our team of
-            dedicated healthcare professionals is available 24/7 to provide
-            prompt and efficient care."
-          icon={faTruckMedical}
+          title="Comprehensive Appointment Management"
+          description="
+          We facilitate the scheduling of daily appointments for patients, ensuring efficient time management for both staff and patients"
+          // It displays comprehensive patient information, enhancing the overall patient experience and aiding healthcare providers in delivering personalized care"
+          icon="appointment.png"
         />
 
         <InformationCard
-          title="Heart Disease"
-          description="Our team of experienced cardiologists and medical experts use
-            state-of-the-art technology to assess your cardiovascular health and
-            design personalized treatment plans. From comprehensive screenings
-            to advanced interventions, we are committed to helping you maintain
-            a healthy heart and lead a fulfilling life."
-          icon={faHeartPulse}
+          title="Efficient Registration Process"
+          description="We streamline the registration process with features such as easy conversion of appointments to registrations and walk-in registration capabilities ensureing accuracy and efficiency in patient data management."
+          icon="REG.png"
         />
 
         <InformationCard
-          title="Dental Care"
-          description="Smile with confidence as our Dental Care services cater to all your
-            oral health needs. Our skilled dentists provide a wide range of
-            treatments, from routine check-ups and cleanings to cosmetic
-            procedures and restorative treatments."
-          icon={faTooth}
+          title="Cutting Edge Technology"
+          description="We utilize cutting edge software tools to provide patients the
+          opportunity to schedule appointments, communicate with their providers
+          at a 24/7 basis, and more"
+          icon="insurance.png"
         />
       </div>
     </div>
