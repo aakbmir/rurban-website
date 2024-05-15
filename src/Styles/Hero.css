@@ -128,10 +128,10 @@
 }
 @media screen and (max-width: 600px) {
     .text-headline {
-        font-size: 20px;
+        font-size: 28px;
     }
     .text-title {
-        font-size: 28px;
+        font-size: 20px;
     }
     .text-descritpion {
         font-size: 16px;
