@@ -68,6 +68,11 @@ function Navbar() {
               About
             </a>
           </li>
+          <li>
+            <a onClick={openNav} href="#whyus">
+              Why us?
+            </a>
+          </li>
           {/* <li>
             <a onClick={openNav} href="#reviews">
               Reviews
