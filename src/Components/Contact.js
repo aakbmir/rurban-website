@@ -90,8 +90,7 @@ function Contact() {
             required: "This field is required",
           })}
         ></textarea>
-        <p></p>
-        <br />
+
         <button disabled={loading} className="text-appointment-btn">
           {loading ? "Submitting" : "Submit"}
         </button>

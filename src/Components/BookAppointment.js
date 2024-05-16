@@ -7,7 +7,7 @@ import "../Styles/BookAppointment.css";
 
 function BookAppointment() {
   return (
-    <div className="ba-section">
+    <div className="ba-section" id="whyus">
       <div className="ba-image-content">
         <img
           src="https://thumbs.dreamstime.com/b/double-exposure-smart-medical-doctor-working-operating-room-as-concept-43619820.jpg"

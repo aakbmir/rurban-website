@@ -6,7 +6,7 @@ function About() {
     <div className="about-section" id="about">
       <div className="about-image-content">
         <img
-          src="https://i.pinimg.com/736x/c6/7c/c1/c67cc114fc289a3eacc442da873053b2.jpg"
+          src="/doctor_group.jpg"
           alt="Doctor Group"
           className="about-image1"
         />

@@ -35,6 +35,11 @@ function Navbar() {
           </a>
         </li>
         <li>
+          <a href="#whyus" className="navbar-links">
+            Why us?
+          </a>
+        </li>
+        <li>
           <a href="#contact" className="navbar-links">
             Contact
           </a>
