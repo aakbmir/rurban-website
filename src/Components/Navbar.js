@@ -36,7 +36,7 @@ function Navbar() {
         </li>
         <li>
           <a href="#whyus" className="navbar-links">
-            Why us?
+            Why Us
           </a>
         </li>
         <li>
@@ -70,7 +70,7 @@ function Navbar() {
           </li>
           <li>
             <a onClick={openNav} href="#whyus">
-              Why us?
+              Why Us
             </a>
           </li>
           {/* <li>
